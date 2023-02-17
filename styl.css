@@ -1,0 +1,20 @@
+ul li{
+    
+    display: inline;
+    font-family: Brush Script MT;
+	font-size: 60px;
+    padding: 0 10px  10px;
+    background:#898888;
+    border: 2px solid black;
+    float: left;
+   
+    
+}
+li:hover  {
+    background:black;
+    color:#FFFFFF;
+	transition :0.5s all;
+    
+
+
+}
